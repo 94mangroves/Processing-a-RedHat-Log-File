@@ -1,7 +1,7 @@
 # The purpose of this script is to search for words or strings in a txt document
 # The text document should be in the same folder that this script resides
 #
-# This scipt will prompt the user for a file to process.
+# This script will prompt the user for a file to process.
 # It will open the file and iterate through each line of the file, catch and report any errors that occur.
 # For each line in the file:
 # If the line identifies a specific worm that was detected, then record the unique name of the worm.
