@@ -26,7 +26,7 @@ logFile = input("What file would you like to analyze today? ")
 
 keywordDictionary = {}
 
-# This searcges the file and analyzes each line of the user selected log file
+# This searches the file and analyzes each line of the user selected log file
 
 with open(logFile) as logFile:
     for eachRow in logFile:
