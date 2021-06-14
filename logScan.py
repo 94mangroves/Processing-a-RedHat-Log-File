@@ -32,6 +32,7 @@ with open(logFile) as logFile:
     for eachRow in logFile:
         
 # Seperates the file where spaces occurs in the user selected file
+# Substitute the word 'worm' for any other word you chose to search for
         
         logSplitList = eachRow.split( )
         for logEntry in logSplitList:
@@ -48,6 +49,7 @@ print(' ')
 
 
 # This creates a table based on the search results 
+# You can change the table headers 'Worm Names' 'Occurences' to anythoing you want
 if PRETTY:
 
     t = PrettyTable(['Worm Names', 'Occurrences'])
