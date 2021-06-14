@@ -40,7 +40,7 @@ print(' ')
 
 # This function ask the user to type in the file of their choice
 
-logFile = input("What file would you like to analyze today? ")
+logFile = input("Please type the name of the file you need to process:  ")
 
 # This invokes the dictionary
 
