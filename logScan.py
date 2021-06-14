@@ -16,7 +16,6 @@
 # Third, install PIP on Ubuntu https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/
 # Fourth, downloading and installing PrettyTables in Ubuntu https://pypi.org/project/prettytable/
 #
-#
 # This script is an amalgamation of scripts found all around
 
 # This imports RegEx just in case we don't know the format of the document the user chooses
