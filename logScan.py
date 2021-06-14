@@ -18,7 +18,7 @@ print(' ')
 print(' ')
 
 
-# This function takes in the file the user picked 
+# This function ask the user to type in the file of their choice
 
 logFile = input("What file would you like to analyze today? ")
 
